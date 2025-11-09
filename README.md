@@ -50,7 +50,7 @@ Follow these steps to get the application running on your local development envi
     ```bash
     php artisan serve
     ```
-    The application will be accessible at: http://127.0.0.1:8000 (or http://localhost:8000).
+    The application will be accessible at: https://student-record-screening-production.up.railway.app/students
 
 ## 🧪 Testing Instructions
 
